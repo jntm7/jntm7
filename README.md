@@ -6,9 +6,10 @@ I'm Jonathan, a software development student from Canada. Nice to meet you!
 - Python
 - Java
 - JavaScript
-- HTML/CSS
+- T-SQL
 
 🧑‍🏫 Learning:
+- SwiftUI
 - Rust
 - C#
-- C++
+- TypeScript
