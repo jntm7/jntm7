@@ -4,12 +4,13 @@ I'm Jonathan, a software development student from Canada. Nice to meet you!
 
 🌱 Languages:
 - Python
-- Java
 - JavaScript
 - T-SQL
+- Swift
 
 🧑‍🏫 Learning:
-- SwiftUI
+- React
 - Rust
 - C#
 - TypeScript
+- SwiftUI
