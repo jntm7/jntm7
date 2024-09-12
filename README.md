@@ -2,15 +2,14 @@
 
 I'm Jonathan, a software development student from Canada. Nice to meet you!
 
-🌱 Languages:
-- Python
-- JavaScript
-- T-SQL
-- Swift
+🌱 Tech Stack:
+- Python, Django
+- Ruby, Rails
+- JavaScript, Node.js
+- TypeScript
+- Swift, SwiftUI
 
 🧑‍🏫 Learning:
 - React
 - Rust
 - C#
-- TypeScript
-- SwiftUI
