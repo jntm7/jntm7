@@ -1,15 +1,16 @@
-## Hello 👋
-
-I'm Jonathan, a software development student from Canada. Nice to meet you!
-
-🌱 Tech Stack:
-- Python, Django
-- Ruby, Rails
-- JavaScript, Node.js
-- TypeScript
-- Swift, SwiftUI
-
-🧑‍🏫 Learning:
-- React
-- Rust
-- C#
+<h1 align="center">Hi, I'm Jonathan!👋</h1>
+<p align="center">A software development student from Canada. I am interested in many aspects of development, including cloud computing, game development and mobile/desktop apps. I like to build random projects in my free time, feel free to check them out!</p>
+<br/>
+<h2 align="center">My Skills</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,ruby,rails,rust,swift,cs,bootstrap,js,html,css" />
+  </a>
+</p>
+<br/>
+<h2 align="center">My Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,pr,ps,figma,gcp,pycharm,rider,vscode,visualstudio,discord,webflow" />
+  </a>
+</p>
