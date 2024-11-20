@@ -11,7 +11,7 @@
 <h2 align="center">My Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,figma,gcp,pycharm,rider,vscode,visualstudio,discord,webflow" />
+    <img src="https://skillicons.dev/icons?i=github,figma,gcp,pycharm,rider,vscode,visualstudio,ae,pr,discord,webflow" />
   </a>
 </p>
 <br/>
