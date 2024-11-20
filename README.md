@@ -14,3 +14,8 @@
     <img src="https://skillicons.dev/icons?i=github,figma,gcp,pycharm,rider,vscode,visualstudio,discord,webflow" />
   </a>
 </p>
+<br/>
+<h2 align="center">My LeetCode</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jntm?theme=transparent&font=Noto%20Sans%20Display"></img>
+</p>
