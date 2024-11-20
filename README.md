@@ -4,13 +4,13 @@
 <h2 align="center">My Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,ruby,rails,rust,swift,cs,bootstrap,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,react,ruby,rails,rust,swift,cs,bootstrap,js,html,css" />
   </a>
 </p>
 <br/>
 <h2 align="center">My Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,pr,ps,figma,gcp,pycharm,rider,vscode,visualstudio,discord,webflow" />
+    <img src="https://skillicons.dev/icons?i=github,figma,gcp,pycharm,rider,vscode,visualstudio,discord,webflow" />
   </a>
 </p>
