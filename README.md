@@ -1,24 +1,24 @@
 <div>
-  <h1>Hi, I'm Jonathan!👋</h1>
-  <p>A software development student from Canada with an interest in cloud computing and responsive web design.</p>
+  <h1> Hi, I'm Jonathan!👋</h1>
+  <p>A software developer student from Canada with an interest in cloud computing and responsive web design.</p>
   <p>I enjoy building random projects in my spare time, feel free to check them out!</p>
 </div>
 <br/>
 
 <div>
-  <h2>My Skills</h2>
+  <h3>Skills</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ruby,swift,js,html,css" />
   </a>
-  <h3>Currently Learning</h3>
+  <h4>Currently Learning</h4>
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=rust,cs,react,nextjs,tailwind,bootstrap" />
+     <img src="https://skillicons.dev/icons?i=rust,cs,bootstrap,react,tailwind,nextjs" />
   </a>
 </div>
 <br/>
 
 <div>
-  <h2>My Tools</h2>
+  <h3>Tools</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pycharm,vscode,visualstudio,obsidian,sublime,figma" />
   </a>
@@ -26,7 +26,7 @@
 <br/>
 
 <div>
-  <h2>My Profile</h2>
+  <h2>Profile</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jntm7&layout=compact&theme=vue-dark" />
   </a>
