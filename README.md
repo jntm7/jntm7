@@ -8,38 +8,29 @@
 <div>
   <h3>Skills</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ruby,swift,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=cs,py,ruby,swift,js,html,css" />
   </a>
-  <h4>Currently Learning</h4>
+  <h3>Learning</h3>
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=rust,cs,bootstrap,react,tailwind,nextjs" />
+     <img src="https://skillicons.dev/icons?i=flutter,dart,rust,bootstrap,react,tailwind,nextjs" />
   </a>
-</div>
-<br/>
-
-<div>
   <h3>Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,vscode,visualstudio,obsidian,sublime,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,unity,obsidian,vim" />
   </a>
 </div>
 <br/>
 
 <div>
-  <h2>Profile</h2>
+  <h3>Profile</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jntm7&layout=compact&theme=vue-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jntm7&layout=compact&theme=tokyonight" />
   </a>
-  <br/>
-  <br/>
-   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jntm7&rank=-C,-?&theme=gitdimmed&margin-w=20" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jntm7&hide=contribs,issues&theme=tokyonight" />
   </a>
-  <br/>
-  <br/>
-  <p>
-    <a href="https://leetcard.jacoblin.cool">
-      <img src="https://leetcard.jacoblin.cool/jntm?theme=dark&font=Noto%20Sans%20Display"></img>
-    </a>
-  </p>
+<br/>
+  <a href="https://leetcard.jacoblin.cool">
+    <img src="https://leetcard.jacoblin.cool/jntm?theme=dark&font=Noto%20Sans%20Display"></img>
+  </a>
 </div>
