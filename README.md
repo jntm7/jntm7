@@ -16,7 +16,7 @@
   </a>
   <h3>Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,unity,obsidian,vim" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,unity,obsidian,vim,linux" />
   </a>
 </div>
 <br/>
@@ -28,9 +28,5 @@
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=jntm7&hide=contribs,issues&theme=tokyonight" />
-  </a>
-<br/>
-  <a href="https://leetcard.jacoblin.cool">
-    <img src="https://leetcard.jacoblin.cool/jntm?theme=dark&font=Noto%20Sans%20Display"></img>
   </a>
 </div>
