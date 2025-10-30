@@ -1,6 +1,6 @@
 <div>
   <h1> Hi, I'm Jonathan!👋</h1>
-  <p>A software developer student from Canada with an interest in cloud computing and responsive web design.</p>
+  <p>A software developer student from Canada with an interest in responsive front-end development, cloud computing and API integration.</p>
   <p>I enjoy building random projects in my spare time, feel free to check them out!</p>
 </div>
 <br/>
@@ -12,11 +12,11 @@
   </a>
   <h3>Learning</h3>
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=flutter,dart,rust,bootstrap,react,tailwind,nextjs" />
+     <img src="https://skillicons.dev/icons?i=rails,react,flutter,dart,supabase,bootstrap,rust" />
   </a>
   <h3>Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,unity,obsidian,vim,linux" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,neovim,vscode,visualstudio" />
   </a>
 </div>
 <br/>
