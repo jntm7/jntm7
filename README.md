@@ -20,12 +20,7 @@ I enjoy building random projects in my spare time, so feel free to check them ou
 ### Projects
 [![Projects](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&width=700&lines=Here+are+some+fun+projects+I've+been+working+on!)](https://git.io/typing-svg)
 
-<a href="https://github.com/jntm7/passlock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jntm7&repo=passlock&layout=compact&theme=tokyonight" />
-</a>
-<a href="https://github.com/jntm7/yumikord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jntm7&repo=yumikord&layout=compact&theme=tokyonight" />
-</a>
-<a href="https://github.com/jntm7/passlock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jntm7&repo=passlock&layout=compact&theme=tokyonight" />
-</a>
+[![passlock](https://github-readme-stats.vercel.app/api/pin/?username=jntm7&repo=passlock&layout=compact&theme=tokyonight)](https://github.com/jntm7/passlock)
+[![yumikord](https://github-readme-stats.vercel.app/api/pin/?username=jntm7&repo=yumikord&layout=compact&theme=tokyonight)](https://github.com/jntm7/yumikord)
+[![classdule](https://github-readme-stats.vercel.app/api/pin/?username=jntm7&repo=classdule&layout=compact&theme=tokyonight)](https://github.com/jntm7/classdule)
+[![geotrivia](https://github-readme-stats.vercel.app/api/pin/?username=jntm7&repo=geotrivia&layout=compact&theme=tokyonight)](https://github.com/jntm7/geotrivia)
