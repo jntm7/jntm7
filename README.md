@@ -15,11 +15,12 @@ I enjoy building random projects in my spare time, so feel free to check them ou
 [![Learning](https://skillicons.dev/icons?i=flutter,dart,solidjs,bootstrap,rails,rust,raspberrypi")](https://skillicons.dev)
 
 ### Activity
-[![Activity](https://github-readme-stats.vercel.app/api/top-langs/?username=jntm7&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Activity](https://github-readme-stats-woad-one-49.vercel.app/api/top-langs/?username=jntm7&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
 [![Projects](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&width=800&lines=Here+are+some+fun+projects+I've+been+working+on!)](https://git.io/typing-svg)
 
-[![passlock](https://github-readme-stats.vercel.app/api/pin/?username=jntm7&repo=passlock&layout=compact&theme=tokyonight)](https://github.com/jntm7/passlock)
-[![classdule](https://github-readme-stats.vercel.app/api/pin/?username=jntm7&repo=classdule&layout=compact&theme=tokyonight)](https://github.com/jntm7/classdule)
-[![geotrivia](https://github-readme-stats.vercel.app/api/pin/?username=jntm7&repo=geotrivia&layout=compact&theme=tokyonight)](https://github.com/jntm7/geotrivia)
+[![passlock](https://github-readme-stats-woad-one-49.vercel.app/api/pin/?username=jntm7&repo=passlock&layout=compact&theme=tokyonight)](https://github.com/jntm7/passlock)
+[![yumikord](https://github-readme-stats-woad-one-49.vercel.app/api/pin/?username=jntm7&repo=yumikord&layout=compact&theme=tokyonight)](https://github.com/jntm7/yumikord)
+[![classdule](https://github-readme-stats-woad-one-49.vercel.app/api/pin/?username=jntm7&repo=classdule&layout=compact&theme=tokyonight)](https://github.com/jntm7/classdule)
+[![geotrivia](https://github-readme-stats-woad-one-49.vercel.app/api/pin/?username=jntm7&repo=geotrivia&layout=compact&theme=tokyonight)](https://github.com/jntm7/geotrivia)
