@@ -6,13 +6,13 @@ I'm a software developer student from Canada with an interest in responsive web 
 I enjoy building random projects in my spare time, so feel free to check them out!
 
 ### My Skills
-[![Skills](https://skillicons.dev/icons?i=cs,py,ruby,swift,js,astro,react,tailwind")](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cs,py,js,ts,ruby,swift,astro,react,tailwind")](https://skillicons.dev)
 
 ### Tools I Use
 [![Tools](https://skillicons.dev/icons?i=linux,arch,apple,neovim,vscode,visualstudio,supabase,obsidian,vercel,")](https://skillicons.dev)
 
 ### Currently Learning
-[![Learning](https://skillicons.dev/icons?i=flutter,dart,solidjs,bootstrap,rails,rust,raspberrypi")](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=c,flutter,dart,solidjs,bootstrap,rails,rust,raspberrypi")](https://skillicons.dev)
 
 ### Activity
 [![Languages](https://github-readme-stats-woad-one-49.vercel.app/api/top-langs/?username=jntm7&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
