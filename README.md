@@ -13,7 +13,6 @@ I'm a software developer with a passion for building responsive full-stack appli
 <!-- [![Stats](https://github-readme-stats-woad-one-49.vercel.app/api?username=jntm7&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 ### Projects
 [![Projects](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&width=800&lines=Here+are+some+fun+projects+I've+been+working+on!)](https://git.io/typing-svg)
+[![tripanion](https://github-readme-stats-woad-one-49.vercel.app/api/pin/?username=jntm7&repo=tripanion&layout=compact&theme=tokyonight)](https://github.com/jntm7/tripanion)
 [![passlock](https://github-readme-stats-woad-one-49.vercel.app/api/pin/?username=jntm7&repo=passlock&layout=compact&theme=tokyonight)](https://github.com/jntm7/passlock)
 [![yumikord](https://github-readme-stats-woad-one-49.vercel.app/api/pin/?username=jntm7&repo=yumikord&layout=compact&theme=tokyonight)](https://github.com/jntm7/yumikord)
-[![classdule](https://github-readme-stats-woad-one-49.vercel.app/api/pin/?username=jntm7&repo=classdule&layout=compact&theme=tokyonight)](https://github.com/jntm7/classdule)
-[![geotrivia](https://github-readme-stats-woad-one-49.vercel.app/api/pin/?username=jntm7&repo=geotrivia&layout=compact&theme=tokyonight)](https://github.com/jntm7/geotrivia)
